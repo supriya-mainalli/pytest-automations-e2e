@@ -1,4 +1,4 @@
-# pytest-automations-e2e
+# Pytest End-to-End automations
 
 A Python-based end-to-end (E2E) test automation framework built with **Pytest**, **Selenium WebDriver**, and **Allure** reporting. The project follows the **Page Object Model (POM)** design pattern and currently covers web UI automation for the [OrangeHRM demo application](https://opensource-demo.orangehrmlive.com/).
 
