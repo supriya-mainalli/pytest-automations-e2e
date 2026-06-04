@@ -1,6 +1,6 @@
 # Pytest End-to-End automations
 
-A Python-based end-to-end (E2E) test automation framework built with **Pytest**, **Selenium WebDriver**, and **Allure** reporting. The project follows the **Page Object Model (POM)** design pattern and currently covers web UI automation for the [OrangeHRM demo application](https://opensource-demo.orangehrmlive.com/).
+A Python-based end-to-end (E2E) test automation framework built with **Pytest**, **Selenium WebDriver**, and **Allure** reporting. This for learning and experimentation with API and webautomations. The project follows the **Page Object Model (POM)** design pattern and currently covers web UI automation for the [OrangeHRM demo application](https://opensource-demo.orangehrmlive.com/).
 
 ---
 
@@ -134,7 +134,3 @@ On test failure, a **PNG screenshot** is automatically captured and attached to 
 5. Open a Pull Request.
 
 ---
-
-## 📄 License
-
-This project is open source. Feel free to use and modify it for your own automation needs.
